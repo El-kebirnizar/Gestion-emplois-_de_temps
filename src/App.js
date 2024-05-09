@@ -4,7 +4,7 @@ import Login from './Components/authentification/Login.js';
 import ResetPassword from './Components/authentification/ResetPassword.js';
 import Signup from './Components/authentification/Signup.js';
 import Profile from './Components/authentification/Profile.js';
-
+//test
 import Home from './Components/dashboard/Home.js';
 import Classe from './Components/classes/Classe.js';
 import NewClasse from './Components/classes/NewClasse.js';
